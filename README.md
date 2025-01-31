@@ -45,12 +45,14 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```bash
 Edit
 pip install -r requirements.txt
+```
 Set up your environment variables: Create a .env file in the root of the project and add the following keys:
 
 makefile
-Copy
+```bash
 Edit
 USER="Your X Username"
 PASSWORD="Your X Password"
 CRYON_API_KEY="Your Cryon API Key"
 OPENAI_API_KEY="Your OpenAI API Key"  # If using OpenAI for content generation
+```
