@@ -13,7 +13,7 @@ This project is an AI-powered agent that automates the process of creating, uplo
 
 ## Tech Stack
 - **Programming Language:** Python
-- **AI Model:** [Specify the AI model used, e.g., OpenAI GPT, custom model, etc.]
+- **AI Model:** : Gemini
 - **Automation Tool:** Selenium (used for automating post uploads)
 - **Image Uploading Service:** Cryon (for uploading images to posts)
 - **Scheduling Library:** `schedule` (for managing post timings)
