@@ -1,5 +1,5 @@
 # AI Agent for Automatic Post Upload on X.com
-
+<img src="./IMG_0162.jpeg" alt="AI Agent" width="500" height="auto">  <!-- Adjust path and image size as needed -->
 ## Overview
 This project is an AI-powered agent that automates the process of creating, uploading, and managing posts on X.com (formerly Twitter). By leveraging AI for content generation and Selenium for automation, this agent creates posts based on predefined prompts or conditions, uploads them with images, and schedules them for later publishing. The agent is designed to streamline content creation, boost engagement, and enhance social media presence on X.com.
 
