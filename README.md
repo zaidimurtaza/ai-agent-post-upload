@@ -53,6 +53,5 @@ makefile
 Edit
 USER="Your X Username"
 PASSWORD="Your X Password"
-CRYON_API_KEY="Your Cryon API Key"
 OPENAI_API_KEY="Your OpenAI API Key"  # If using OpenAI for content generation
 ```
